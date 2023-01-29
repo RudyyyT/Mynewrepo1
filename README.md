@@ -1,2 +1,1 @@
 # Mynewrepo1
-Sya
